@@ -12,11 +12,11 @@ The main goal of this project is to practice and learn the basics of Spring boot
 
 ## File Structure
 src/main/
-    -java/com/edgaritzak/loginFormApplication
-        -LoginFormApplication.java
-        -controller/
-            -greetings.java
-    -resources/templates/
+    -java/com/edgaritzak/loginFormApplication</br>
+        -LoginFormApplication.java</br>
+        -controller/</br>
+            -greetings.java</br>
+    -resources/templates/</br>
         -error.html
         -index.html
         -greetings.html
