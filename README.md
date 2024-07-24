@@ -1,16 +1,16 @@
 # LoginFormApplication-w-SpringBoot 🍃
 A simple login form made with SpringBoot.
 
-##Goals
+## Goals
 The main goal of this project is to practice and learn the basics of Spring boot.
 
-##Technologies
+## Technologies
 -Made in Eclipse IDE
   -Java
   -Spring boot
   -ThymeLeaf
 
-##File Structure
+## File Structure
 src/main/
     -java/com/edgaritzak/loginFormApplication
         -LoginFormApplication.java
@@ -27,5 +27,5 @@ The main purpose of this project is learning. You are free to explore the code a
   -Execute LoginFormApplication.java (main method)
   -enter to localhost:8080 (http port)
 
-##Contact
+## Contact
 email: edgaritzak@outlook.com
