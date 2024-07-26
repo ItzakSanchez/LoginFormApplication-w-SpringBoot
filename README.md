@@ -1,5 +1,5 @@
 # LoginFormApplication-w-SpringBoot 🍃
-A simple login form made with SpringBoot.
+A simple login form made with SpringBoot. This project was made following the steps shown in this website https://simplifyingtechcode.wordpress.com/2023/08/26/create-a-simple-login-page-using-spring-boot-rest-jsp-java-web-app-development/ </br> I made some changes on the original code using Thymeleaf instead JSP, to do that I import the dependencies of Thymeleaf on pom.xml, use .html files instead .jsp
 
 ## Goals
 The main goal of this project is to practice and learn the basics of Spring boot.
@@ -25,7 +25,7 @@ src/main/
 The main purpose of this project is learning. You are free to explore the code and test it</br>
   -Download the files and import into your IDE</br>
   -Execute LoginFormApplication.java (main method)</br>
-  -enter to localhost:8080 (http port)
+  -Enter to localhost:8080 (http port)
 
 ## Contact
 email: edgaritzak@outlook.com
